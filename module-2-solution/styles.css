@@ -19,16 +19,18 @@ h1 {
 
 .firstDiv {
 		border-radius: 10px;
+		background-color: lightpink;
 }
 
 .SecDiv {
 		border-radius: 10px;
+		background-color: lightcoral;
 }
 
 .ThrdDiv {
 		border-radius: 10px;
+		background-color: lightgreen;
 }
-
 .borderedSpan {
 	border: solid 2px darkgreen;
 	font-size: 25pt;
